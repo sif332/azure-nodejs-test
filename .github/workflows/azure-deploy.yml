@@ -67,5 +67,4 @@ jobs:
         with:
           app-name: 'my-nodejs-app-sif332'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_22aed113b3134ca1a14200c9ad9fe064 }}
           package: .
