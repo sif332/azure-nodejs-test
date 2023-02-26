@@ -1,7 +1,7 @@
 name: Build and deploy Node.js app to Azure Web App - my-nodejs-app-sif332
 
 env:
-  AZURE_CLIENT_ID: '1bc9ad74-0bbb-4122-9f63-e6866c7028f'
+  AZURE_CLIENT_ID: '1bc9ad74-0bbb-4122-9f63-e6866c7028f2'
   AZURE_TENANT_ID: 'afde52eb-b04b-4fb6-b70c-03e341486547'
   AZURE_SUBSCRIPTION_ID: '797b8db6-5f65-480b-a1d7-8e370b37628a'
 
